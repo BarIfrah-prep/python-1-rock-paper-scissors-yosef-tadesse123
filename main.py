@@ -16,6 +16,7 @@ print("game rules: \n""rock = 1\npaper = 2\nscissors = 3\n"
       "scissors(3) vs paper(2) --> scissors(3) wins\n"
       "paper(2) vs rock(1) --> paper(2) wins\n")
 
+
 while True:
     user_input = int(input("type 1(Rock) 2(Paper) 3(scissors) : "))
 
