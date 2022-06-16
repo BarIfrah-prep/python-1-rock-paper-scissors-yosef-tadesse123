@@ -31,8 +31,7 @@ email address: yoseftad@edu.hac.ac.il
 
 ## Code input\output\ how to run
 1. What is the input of this code?\
-- the first in put is for user enter his choice
-- second to ask the player to enter if he want to play again yes or no
+click play button.
 2. What is the output of this code?\
 - first is print all the game rules
 - second is to print  error, please enter the correct number
