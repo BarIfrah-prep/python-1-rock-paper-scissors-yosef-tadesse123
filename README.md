@@ -31,7 +31,8 @@ email address: yoseftad@edu.hac.ac.il
 
 ## Code input\output\ how to run
 1. What is the input of this code?\
-click play button.
+- asking the player to chose numbers between 1-3
+- asking the player if he want remach yes or no
 2. What is the output of this code?\
 - first is print all the game rules
 - second is to print  error, please enter the correct number
@@ -41,7 +42,7 @@ click play button.
 - six to print the score and say goodbye
 - seven if he want to play again
 3. What do I need to do to run it?\
-- to chose number and if i want to play again yes or no
+- to click play button
 4. Give one or two examples of input and output.
 - user_input = int(input("type 1(Rock) 2(Paper) 3(scissors) : "))
 - 1
